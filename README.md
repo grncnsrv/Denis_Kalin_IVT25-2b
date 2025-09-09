@@ -1,1 +1,15 @@
-![img](https://avatars.mds.yandex.net/i?id=eeb36c3e481a894cbd9434144ef3d895be59ae31-13112846-images-thumbs&n=13)
+| заголовок 1 | заголовок 2 |
+|-------------|-------------|
+| текст       | текст       |
+| текст       | текст       |
+| текст       | текст       |
+
+'''c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!" << endl;
+    return 0;
+}
+'''
