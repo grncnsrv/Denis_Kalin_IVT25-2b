@@ -1,17 +1,2 @@
-> ghbjhdka
-> asdbjf
-># kdjsfhsd
-> dsfjbkjsdf'
-1. fjdks
-2. fdsjks
-- fhjsdf
-- dsff
-+ fdsbs
-+ sjkja
-* fsdbhsj
-* sdfa
-- [x] nmdsbs
-- [ ] ssaadaf
-- [ ]  j
-- [ ]  m
-
+<ghhhbhv/>
+[ссылка](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) "текст для подсказки"
